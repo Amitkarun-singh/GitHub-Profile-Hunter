@@ -43,7 +43,7 @@ Please note that all contributions are subject to review, and maintainers will h
 
 ## Issues
 
-If you encounter any issues while using the app or have any suggestions for improvements, please [open an issue](https://github.com/your-username/github-profile-hunter/issues) on GitHub. We appreciate your feedback!
+If you encounter any issues while using the app or have any suggestions for improvements, please [open an issue](https://github.com/Amitkarun-singh/github-profile-hunter/issues) on GitHub. We appreciate your feedback!
 
 ## License
 
